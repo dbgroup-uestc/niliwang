@@ -1,0 +1,1 @@
+The code is based on paper "[Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach](https://arxiv.org/abs/1706.05674)" ande code [here](https://github.com/takuo-h/GNN-for-OOKB/blob/master/main.py).
